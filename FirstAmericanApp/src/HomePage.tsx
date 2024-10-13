@@ -1,9 +1,10 @@
-import Card from './components/Card'
+import Card from './components/HeaderHomePage'
 
 function Homepage(){
     return (
         <>
-        <Card/>
+        <Card username='Julio Quintanilla'/>
+
         </>
     )
 }
