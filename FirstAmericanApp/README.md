@@ -1,6 +1,7 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a basic app that allows users from the First American Home Warranty
+use tools that could help benefit in servicing their c
 
 Currently, two official plugins are available:
 
