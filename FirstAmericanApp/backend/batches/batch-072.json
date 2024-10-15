@@ -1,0 +1,100 @@
+{
+  "dbb-metrics-DynamoDBTable-4N2XJFR8ZCXQ": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/11/2024"
+          },
+          "Agent": {
+            "S": "Dietrich Escobar"
+          },
+          "Avaya": {
+            "S": "3837"
+          },
+          "Sch hours": {
+            "N": "8.5"
+          },
+          "Hours in adh": {
+            "N": "7.47"
+          },
+          "Adherence": {
+            "N": "0.8788235294"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/11/2024"
+          },
+          "Agent": {
+            "S": "Eder Rodriguez"
+          },
+          "Avaya": {
+            "S": "2805"
+          },
+          "Sch hours": {
+            "N": "8.5"
+          },
+          "Hours in adh": {
+            "N": "8.17"
+          },
+          "Adherence": {
+            "N": "0.9611764706"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/11/2024"
+          },
+          "Agent": {
+            "S": "Edgardo Figueroa"
+          },
+          "Avaya": {
+            "S": "4320"
+          },
+          "Sch hours": {
+            "N": "7.2"
+          },
+          "Hours in adh": {
+            "N": "6.55"
+          },
+          "Adherence": {
+            "N": "0.9097222222"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/11/2024"
+          },
+          "Agent": {
+            "S": "Eduardo Salazar"
+          },
+          "Avaya": {
+            "S": "6478"
+          },
+          "Sch hours": {
+            "N": "7.75"
+          },
+          "Hours in adh": {
+            "N": "7.5"
+          },
+          "Adherence": {
+            "N": "0.9677419355"
+          }
+        }
+      }
+    }
+  ]
+}

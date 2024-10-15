@@ -1,0 +1,580 @@
+{
+  "dbb-metrics-DynamoDBTable-4N2XJFR8ZCXQ": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Kathy Menjivar"
+          },
+          "Avaya": {
+            "S": "2413"
+          },
+          "Sch hours": {
+            "N": "8"
+          },
+          "Hours in adh": {
+            "N": "7.82"
+          },
+          "Adherence": {
+            "N": "0.9775"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Kathya Medina"
+          },
+          "Avaya": {
+            "S": "3987"
+          },
+          "Sch hours": {
+            "N": "9"
+          },
+          "Hours in adh": {
+            "N": "8.72"
+          },
+          "Adherence": {
+            "N": "0.9688888889"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Katia Carranza"
+          },
+          "Avaya": {
+            "S": "3853"
+          },
+          "Sch hours": {
+            "N": "9"
+          },
+          "Hours in adh": {
+            "N": "8.82"
+          },
+          "Adherence": {
+            "N": "0.98"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Kelly Mejia"
+          },
+          "Avaya": {
+            "S": "3856"
+          },
+          "Sch hours": {
+            "N": "9"
+          },
+          "Hours in adh": {
+            "N": "9"
+          },
+          "Adherence": {
+            "N": "1"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Kenia Lemus"
+          },
+          "Avaya": {
+            "S": "2900"
+          },
+          "Sch hours": {
+            "N": "4"
+          },
+          "Hours in adh": {
+            "N": "3.8"
+          },
+          "Adherence": {
+            "N": "0.95"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Laura Reyes"
+          },
+          "Avaya": {
+            "S": "3958"
+          },
+          "Sch hours": {
+            "N": "8.5"
+          },
+          "Hours in adh": {
+            "N": "7.55"
+          },
+          "Adherence": {
+            "N": "0.8882352941"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Leslie Cabrera"
+          },
+          "Avaya": {
+            "S": "3851"
+          },
+          "Sch hours": {
+            "N": "8.5"
+          },
+          "Hours in adh": {
+            "N": "8.42"
+          },
+          "Adherence": {
+            "N": "0.9905882353"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Liliana Centeno"
+          },
+          "Avaya": {
+            "S": "3932"
+          },
+          "Sch hours": {
+            "N": "10"
+          },
+          "Hours in adh": {
+            "N": "0"
+          },
+          "Adherence": {
+            "N": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Lily Sandoval"
+          },
+          "Avaya": {
+            "S": "2642"
+          },
+          "Sch hours": {
+            "N": "8.5"
+          },
+          "Hours in adh": {
+            "N": "7.53"
+          },
+          "Adherence": {
+            "N": "0.8858823529"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Lourdes Hernandez"
+          },
+          "Avaya": {
+            "S": "3807"
+          },
+          "Sch hours": {
+            "N": "9"
+          },
+          "Hours in adh": {
+            "N": "8.23"
+          },
+          "Adherence": {
+            "N": "0.9144444444"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Luis E Morales"
+          },
+          "Avaya": {
+            "S": "6265"
+          },
+          "Sch hours": {
+            "N": "10"
+          },
+          "Hours in adh": {
+            "N": "0"
+          },
+          "Adherence": {
+            "N": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Luis Echeverria"
+          },
+          "Avaya": {
+            "S": "3425"
+          },
+          "Sch hours": {
+            "N": "9"
+          },
+          "Hours in adh": {
+            "N": "8.28"
+          },
+          "Adherence": {
+            "N": "0.92"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Luis Hernandez"
+          },
+          "Avaya": {
+            "S": "3393"
+          },
+          "Sch hours": {
+            "N": "8"
+          },
+          "Hours in adh": {
+            "N": "6.95"
+          },
+          "Adherence": {
+            "N": "0.86875"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Luis Mijangos"
+          },
+          "Avaya": {
+            "S": "3504"
+          },
+          "Sch hours": {
+            "N": "8.5"
+          },
+          "Hours in adh": {
+            "N": "8.05"
+          },
+          "Adherence": {
+            "N": "0.9470588235"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Luis Morales"
+          },
+          "Avaya": {
+            "S": "3405"
+          },
+          "Sch hours": {
+            "N": "9"
+          },
+          "Hours in adh": {
+            "N": "8.32"
+          },
+          "Adherence": {
+            "N": "0.9244444444"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Luis Pastor"
+          },
+          "Avaya": {
+            "S": "3623"
+          },
+          "Sch hours": {
+            "N": "8.5"
+          },
+          "Hours in adh": {
+            "N": "7.72"
+          },
+          "Adherence": {
+            "N": "0.9082352941"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Luis Ramos"
+          },
+          "Avaya": {
+            "S": "3597"
+          },
+          "Sch hours": {
+            "N": "9"
+          },
+          "Hours in adh": {
+            "N": "8.07"
+          },
+          "Adherence": {
+            "N": "0.8966666667"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Luis Rivas"
+          },
+          "Avaya": {
+            "S": "4304"
+          },
+          "Sch hours": {
+            "N": "8"
+          },
+          "Hours in adh": {
+            "N": "7.57"
+          },
+          "Adherence": {
+            "N": "0.94625"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Luis Vasquez"
+          },
+          "Avaya": {
+            "S": "2925"
+          },
+          "Sch hours": {
+            "N": "8.5"
+          },
+          "Hours in adh": {
+            "N": "8.12"
+          },
+          "Adherence": {
+            "N": "0.9552941176"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Maria Bonilla"
+          },
+          "Avaya": {
+            "S": "6386"
+          },
+          "Sch hours": {
+            "N": "6"
+          },
+          "Hours in adh": {
+            "N": "5.87"
+          },
+          "Adherence": {
+            "N": "0.9783333333"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Maria Huertas"
+          },
+          "Avaya": {
+            "S": "6495"
+          },
+          "Sch hours": {
+            "N": "8.5"
+          },
+          "Hours in adh": {
+            "N": "8.07"
+          },
+          "Adherence": {
+            "N": "0.9494117647"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Maria Iglesias"
+          },
+          "Avaya": {
+            "S": "4341"
+          },
+          "Sch hours": {
+            "N": "10"
+          },
+          "Hours in adh": {
+            "N": "0"
+          },
+          "Adherence": {
+            "N": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Maria Mendoza"
+          },
+          "Avaya": {
+            "S": "6363"
+          },
+          "Sch hours": {
+            "N": "9"
+          },
+          "Hours in adh": {
+            "N": "4.32"
+          },
+          "Adherence": {
+            "N": "0.48"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Date": {
+            "S": "10/2/2024"
+          },
+          "Agent": {
+            "S": "Maria Valdez"
+          },
+          "Avaya": {
+            "S": "3641"
+          },
+          "Sch hours": {
+            "N": "8.5"
+          },
+          "Hours in adh": {
+            "N": "7.53"
+          },
+          "Adherence": {
+            "N": "0.8858823529"
+          }
+        }
+      }
+    }
+  ]
+}
